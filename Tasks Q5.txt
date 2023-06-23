@@ -1,0 +1,45 @@
+Q5. Manuel vs Automation:
+
+    There are some major differences between manual testing and automation testing. In manual testing, a human performs the tests step by step, without test scripts. In automated testing, tests are executed automatically via test automation frameworks, along with other tools and software.
+
+    Manuel Testing:
+
+        => With traditional manual testing, the testers manually look out for defects in the software by following a written test plan consisting of sets of various test cases. It requires the tester to step into the shoes of a user and analyze the behavior of the website or mobile app, whether it is functionally in sync or it delivers a different and often erroneous behavior than expected.
+
+        => Testers must identify discrepancies and inconsistencies from the expected behavior and report them as defects to developers. Developers need to replicate the same bug and then fix these bugs. All this had to be done when there was pressure from multiple teams to push the changes to production immediately.
+
+    When should you use Manual Testing?
+        Manual Testing prevails when cognitive and behavioral abilities are required to test the software.
+
+        It mainly works well for testing:
+
+            * Functionalities
+            * User Interface (UI)
+            * User Experience (UX)
+            * Website & App Behavior
+            * Features
+            * User Acceptance
+
+        To get the best results in Manual Testing, one needs a QA tester with an eye for detail and a proactive approach. Manual testing can deliver high performance when the tester (be it a developer, QA engineer, Product Manager, or Designer) exhibits a multidimensional approach and has a deeper understanding of technical and business use case aspects of the website & app.
+
+    Automation Testing:
+
+        => Automation testing uses frameworks to run tests. Each framework is scripted with the rules of automation about the software to be tested. This framework is integrated with the various components like
+
+            * function libraries,
+            * test data sources,
+            * object details
+            * other reusable modules
+
+        => Choosing the right automation testing framework is essential, as it could optimize the testing process by delivering high performance with low maintenance costs.
+
+        => Depending on the business requirements, this framework could be linear, structured, data-driven, key-driven, hybrid, or agile. The automation framework provides the required infrastructure that the automation testing tool can use to perform testing.
+
+    Why is Automation testing better than Manual Testing?
+        The key advantages of Automation Testing over Manual Testing are:
+
+            * cost efficiency,
+            * easily perform testing at a large scale,
+            * faster turnaround time, and
+            * better accuracy.
+        With these benefits of Automation Testing, it is mainly preferred when the testing scale is large, where the development cycle is shorter, and one needs to execute codes with a higher frequency of iterations repeatedly.

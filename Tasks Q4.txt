@@ -1,0 +1,15 @@
+Q4. Quality Assurance vs Quality Control:
+
+    QA is process-oriented, and it focuses on preventing quality issues. QC is product-oriented and focused on identifying quality issues in manufactured products that could affect customer satisfaction. Another way to understand this distinction is actions vs. results.
+
+    QA:
+        Quality Assurance is known as QA and focuses on preventing defect. Quality Assurance ensures that the approaches, techniques, methods and processes are designed for the projects are implemented correctly.
+
+        Quality assurance activities monitor and verify that the processes used to manage and create the deliverables have been followed and are operative.
+
+        Quality Assurance is a proactive process and is Prevention in nature. It recognizes flaws in the process. Quality Assurance has to complete before Quality Control
+
+    QC:
+        Quality Control is known as QC and focuses on identifying a defect. QC ensures that the approaches, techniques, methods and processes are designed in the project are following correctly. QC activities monitor and verify that the project deliverables meet the defined quality standards.
+
+        Quality Control is a reactive process and is detection in nature. It recognizes the defects. Quality Control has to complete after Quality Assurance.

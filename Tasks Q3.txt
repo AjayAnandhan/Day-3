@@ -1,0 +1,45 @@
+Q3. Risks and their explanations:
+
+    *Schedule Risk
+    *Budjet risk
+    *Operational risk
+    *Technical risk
+    *Programmatic risk
+
+    1.Schedule Risk:
+        The delivery date for the project gets slipped when the risks and tasks are not scheduled properly. These risks may affect the project and can lead to project failure and impact on company economy. 
+
+    2.Budget Risk:
+        *The budget has not been estimated properly.
+        *The project has expanded unexpectedly.
+        *Costs have overrun.
+
+    3.Operational Risks:
+        These risks occur due to failed system, external risks due to events and lack of process implementation.
+
+        Causes of Operational risks:
+
+        *Priority conflicts are not resolved properly.
+        *Responsibilities have not been resolved properly.
+        *Lack of resources.
+        *Lack of training.
+        *Lack of planning and scheduling for the resources.
+        *Lack of communication in the team.
+
+    4.Technical risks:
+        Technical risks occur due to lack of performance and implementation of functionalities.
+
+        Causes of technical risks are:
+
+        *The project requirements are changing continuously.
+        *Technology advancement is not available.
+        *Project implementation is complex.
+        *Integration of modules has become difficult.
+
+    5.Programmatic Risks:
+        These risks are beyond the operational aspect. The events that lead to such defects are:
+
+        *Lack of funds.
+        *No market development
+        *Product strategy is changed
+        *Change of government rule
